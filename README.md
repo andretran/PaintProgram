@@ -11,7 +11,7 @@ Starting Game
 -------------
 - Open Command Prompt
 - Go into the "DesktopDefense" directory
-- Run the following command "python python2.7-32 MainPaintProgram.py"
+- Run the following command "python2.7-32 MainPaintProgram.py"
 
 Functions
 ---------
