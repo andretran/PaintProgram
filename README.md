@@ -1,5 +1,5 @@
 
-Desktop Defense (Java)
+Paint Program (Python/Pygame)
 ======================
 ![alt tag](https://raw.github.com/andretran/PaintProgram/master/PaintScreenshot.png)
 
