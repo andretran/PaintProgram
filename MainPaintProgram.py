@@ -219,7 +219,6 @@ rectfill=0
 """
 
 backgroundpic=image.load("background.png")
-titlepic=image.load("title.png")
 flowerpic=image.load("flower2.png")
 vinepic=image.load("vine.png")
 vinelongpic=image.load("vinelong.png")
@@ -261,7 +260,7 @@ screen.blit(vinepic,Rect(0,0,290,22))      #blits the vine picture above the too
 screen.blit(vinelongpic,Rect(255,675,320,22))   #blits the vine picture at the bottom of the program
 screen.blit(vinelongpic,Rect(565,675,320,22))   #blits the vine picture at the bottom of the program
 screen.blit(flowerpic,Rect(625,1,250,55))  #blits the flower picture beside the title
-screen.blit(titlepic,Rect(275,1,350,55))   #blits the title for the program
+
 
 ccrect=Rect(5,30,20,495)
 ccrect1=Rect(5,30,20,247)
