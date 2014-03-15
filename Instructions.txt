@@ -1,0 +1,55 @@
+Andre Tran's Paint Program
+
+############################################################
+########## Controls ########################################
+############################################################
+
+Key F5 exits the program
+
+Keys 1,2,3,4,5,6,7,8,9,0 are tools
+1=Pencil, 2=Eraser, 3=Paintbrush, 4=Paintbucket, 5=Spraypaint, 6=Eye Dropper, 7=Line Tool, 8=Rectangle Tool
+9=Oval Tool, 0=Selector Tool
+
+Key C changes the colour selecter from one to the other
+
+Key F1 clears the whole canvas back to white
+
+Key Left Shift changes the current option to the next one
+
+############################################################
+########## Tools ###########################################
+############################################################
+
+Pencil - Left click on the canvas to draw with a pencil
+Eraser - Left click on the canvas to erase things
+Paintbrush - Left click on the canvas to draw paint strokes
+Spraypaint - Left click on the canvas to create a spray effect
+Eye Dropper - Left click on a certain colour on the canvas to get that colour for drawing
+Line Tool - Left click and hold to draw a straight line from where you held the mouse to where you released it
+Rectangle Tool - Left click and hold to draw a rectangle from where you held the mouse to where you released it
+Oval Tool - Left click and hold to draw an oval from where you held the mouse to where you released it
+Selector Tool - Left click and hold to make a selection by making a rectangle.  After making the selection, left click and
+                hold on the highlighted rectangle to move it.  Left click outside of the highlighted rectangle to stop
+                the selection
+Stamps - After clicking on one of the stamps pictures, left click and hold on the canvas to display the stamp, release to
+         finalize the stamp
+                
+############################################################
+########## Colours #########################################
+############################################################
+
+-Left click anywhere on the colour grid on the bottom left to get the colour that you clicked on
+-Change the colour in use to the second colour by clicking the unhighlighted colour rectangle on the far left side of the program
+
+############################################################
+########## Other Things ####################################
+############################################################
+
+-Change tools by clicking on the tool buttons on the left side of the program
+-Pick the stamps by clicking on the stamps near the bottom of the program
+-To save the picture on the canvas, left click on the save button on the bottom right of the program.  Then type the file name.
+ The shift key can be used to toggle between capital letters.  Press the Enter key to save the file.  All files are saved as a
+ bitmap file.
+-To load the picture on the canvas, left click on the load button on the bottom right of the program.  Then type the file name,
+ including the file extension.  The shift key can be used to toggle between capital letters.  Press the Enter key to load the file.
+-Left click on the Clear button on the top right of the program to clear the canvas to a completely white screen.
