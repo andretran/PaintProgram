@@ -10,7 +10,7 @@ Paint program Grade 11 project created using Python/Pygame
 Starting Game
 -------------
 - Open Command Prompt
-- Go into the "DesktopDefense" directory
+- Go into the "PaintProgram" directory
 - Run the following command "python2.7-32 MainPaintProgram.py"
 
 Functions
